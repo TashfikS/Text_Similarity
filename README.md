@@ -61,6 +61,6 @@ To run the unit tests:
 
 2. Build the solution to restore NuGet packages (if not already done).
 
-3. Run the unit tests.
+3. Run the unit tests by clicking "Run Test" with right-button of mouse on controller.
 
 4. The tests will be executed, and the results will be displayed.
